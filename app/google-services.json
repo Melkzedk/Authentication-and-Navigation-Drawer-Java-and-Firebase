@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986857416345",
+    "project_id": "laikipiaeattendancesystem",
+    "storage_bucket": "laikipiaeattendancesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986857416345:android:ad3a3482ad2f3a70843a08",
+        "android_client_info": {
+          "package_name": "com.example.laikipiaeattendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986857416345-4esdhu8mdksqctomrltrl1g9vinuv6lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDUi8XWkMLHlpyWf2Y-pOTDTC6JUOxAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986857416345-4esdhu8mdksqctomrltrl1g9vinuv6lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

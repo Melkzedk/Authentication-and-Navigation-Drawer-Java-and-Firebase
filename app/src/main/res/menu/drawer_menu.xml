@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_MarkAttendance"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="@string/mark_attendance" />
+        <item
+            android:id="@+id/nav_ViewAttendance"
+            android:icon="@drawable/ic_baseline_history_24"
+            android:title="@string/viewattendance" />
+        <item
+            android:id="@+id/nav_ContactLecturer"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="@string/contact_lecturer" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_Logout"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>
